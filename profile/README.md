@@ -19,3 +19,6 @@ This organization contains all the important repositories required to build cust
 * [**IR Remote**](https://gitlab.com/crdroidandroid/vendor_oneplus_ir) (`vendor_oneplus_ir`)
 * [**OSS Dolby UI**](https://github.com/frost-testzone/vendor_oneplus_dolby) (`vendor_oneplus_dolby`)
 * [**LunarisDolby UI**](https://github.com/ziti-resources/hardware_dolby) (`hardware_dolby`)
+
+### Patches
+* [**Fix WiFi Startup Delay (~9.5s)**](https://github.com/ziti-resources/android_hardware_qcom_wlan/commit/7f3966266d7afb91568234e2a3cd093609f7518c) (`android_hardware_qcom_wlan`)
