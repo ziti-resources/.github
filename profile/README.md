@@ -3,16 +3,16 @@
 This organization contains all the important repositories required to build custom ROMs for OnePlus Nord CE3 5G
 
 ### Required device specific repositories
-* [**Device tree**](https://github.com/ziti-resources/device_oneplus_ziti) (`device_oneplus_ziti`)
-* [**Device Common tree**](https://github.com/ziti-resources/device_oneplus_sm8350-common) (`device_oneplus_sm8350-common`)
-* [**Vendor tree (common)**](https://gitlab.com/ziti-resources/vendor_oneplus_ziti) (`vendor_oneplus_ziti`)
-* [**Vendor Common tree (Pacman)**](https://gitlab.com/ziti-resources/vendor_oneplus_sm8350-common) (`vendor_nothing_Pacman`)
+* [**Device Tree**](https://github.com/ziti-resources/device_oneplus_ziti) (`device_oneplus_ziti`)
+* [**Device Common Tree**](https://github.com/ziti-resources/device_oneplus_sm8350-common) (`device_oneplus_sm8350-common`)
+* [**Vendor Tree**](https://gitlab.com/ziti-resources/vendor_oneplus_ziti) (`vendor_oneplus_ziti`)
+* [**Vendor Common Tree**](https://gitlab.com/ziti-resources/vendor_oneplus_sm8350-common) (`vendor_nothing_Pacman`)
 
 ### Device kernel repositories
-* [**Kernel source**](https://github.com/ziti-resources/kernel_oneplus_sm8350) (`kernel_oneplus_sm8350`)
+* [**Kernel Source**](https://github.com/ziti-resources/kernel_oneplus_sm8350) (`kernel_oneplus_sm8350`)
 
 ### Other required repositories
-* [**OnePlus hardware**](https://github.com/ziti-resources/hardware_oplus) (`hardware_oplus`)
+* [**OnePlus Hardware**](https://github.com/ziti-resources/hardware_oplus) (`hardware_oplus`)
 
 ### Other repositories
 * [**Oplus Camera**](https://gitlab.com/ziti-resources/vendor_oplus_camera) (`vendor_oplus_camera`)
