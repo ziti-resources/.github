@@ -6,7 +6,7 @@ This organization contains all the important repositories required to build cust
 * [**Device Tree**](https://github.com/ziti-resources/device_oneplus_ziti) (`device_oneplus_ziti`)
 * [**Device Common Tree**](https://github.com/ziti-resources/device_oneplus_sm8350-common) (`device_oneplus_sm8350-common`)
 * [**Vendor Tree**](https://gitlab.com/ziti-resources/vendor_oneplus_ziti) (`vendor_oneplus_ziti`)
-* [**Vendor Common Tree**](https://gitlab.com/ziti-resources/vendor_oneplus_sm8350-common) (`vendor_nothing_Pacman`)
+* [**Vendor Common Tree**](https://gitlab.com/ziti-resources/vendor_oneplus_sm8350-common) (`vendor_oneplus_sm8350-common`)
 
 ### Device kernel repositories
 * [**Kernel Source**](https://github.com/ziti-resources/kernel_oneplus_sm8350) (`kernel_oneplus_sm8350`)
